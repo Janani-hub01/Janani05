@@ -19,9 +19,27 @@
 * ETL
 * Cloud Technologies
 
+ 💼 Internship Experience
 
-🛠️ Tech Stack
+Data Science Intern | BICS Global, Ambattur, Chennai
 
+During my internship at **BICS Global**, I worked on a cybersecurity-focused project under the domain of **Cyber Threat Detection**. My primary project was **Phishing URL Detection**, where I gained hands-on experience in applying data science and machine learning concepts to identify and classify malicious phishing websites.
+
+ Key Highlights
+
+🔹 Developed a **Phishing URL Detection** model as part of the Cyber Threat Detection project.  
+🔹 Performed data preprocessing and feature engineering on URL datasets.
+🔹 Explored machine learning techniques for phishing URL classification.
+🔹 Strengthened my knowledge of Python, data analysis, and cybersecurity concepts.
+🔹 Improved my problem-solving, analytical thinking, and teamwork skills through practical project development.
+
+ Technologies Used
+
+* Python
+* Machine Learning
+* Data Analysis
+* Cybersecurity
+* Jupyter Notebook
 
 🚀 Featured Project
 
